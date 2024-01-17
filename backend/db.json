@@ -1,31 +1,20 @@
 {
   "transactions": [
     {
-      "key": 1,
-      "date": "2024-10-13",
-      "description": "Transaction1",
-      "credit": 5000,
+      "id": 1705505495708,
+      "description": "Lights",
+      "credit": 2000,
       "debit": 0,
-      "running_balance": 5000,
-      "id": "113a"
+      "date": "2024-01-17",
+      "running_balance": 2000
     },
     {
-      "key": 2,
-      "date": "2024-10-12",
-      "description": "Transaction2",
+      "id": 1705505511616,
+      "description": "Bill",
       "credit": 0,
-      "debit": 2000,
-      "running_balance": -3000,
-      "id": "718c"
-    },
-    {
-      "key": 3,
-      "date": "2024-10-15",
-      "description": "'Description2'",
-      "credit": 0,
-      "debit": 1000,
-      "running_balance": -1000,
-      "id": "4fbd"
+      "debit": 5000,
+      "date": "2024-01-17",
+      "running_balance": -3000
     }
   ]
 }
